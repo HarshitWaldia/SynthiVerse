@@ -12,7 +12,7 @@
 
 **SynthiVerse.AI** is a creative synthesis platform powered by state-of-the-art generative models. It provides a unified interface for users to generate:
 
--   🎨 **Images** from text prompts using Stable Diffusion.
+-   🎨 **Images** from text prompts using Stable Diffusion (from Scratch)
 -   🔊 **Audio** from text prompts using Bark (Suno AI).
 -   🎥 **Video** from text prompts (coming soon!).
 
