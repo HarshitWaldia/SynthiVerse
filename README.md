@@ -74,8 +74,10 @@ The audio tab uses the Bark model to generate speech, music, and sound effects f
 
 ![Text-to-Audio UI](assets/IMG4.png)
 
-**🔊 Result:** [Click to listen](assets/output_audio.wav)
-
+**Result:**
+<audio controls src="assets/output_audio.wav">
+  Your browser does not support the audio element.
+</audio>
 
 ---
 
