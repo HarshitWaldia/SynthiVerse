@@ -128,13 +128,13 @@ This repository's code is licensed under the [MIT License](LICENSE).
 
 This project would not be possible without the incredible work of the following teams:
 
--   **Stable Diffusion**: [CompVis](https://github.com/CompVis/stable-diffusion), [Runway](https://runwayml.com/), and [Stability AI](https://stability.ai/).
+-   **Stable Diffusion**: [CompVis](https://github.com/CompVis/stable-diffusion)
 -   **Bark**: [Suno AI](https://github.com/suno-ai/bark).
 -   **UI Framework**: [Gradio](https://gradio.app/) by Hugging Face.
 
 ## 🙌 Contributing
 
-Contributions are welcome! If you have suggestions for improvements or want to add new features, please feel free to:
+Contributions are welcome! . Great thanks to Shivam Sah for integrating Text-2-Audio Functionality.If you have suggestions for improvements or want to add new features, please feel free to:
 
 1.  Fork the repository.
 2.  Create a new feature branch (`git checkout -b feature/AmazingFeature`).
