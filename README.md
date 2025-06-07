@@ -6,7 +6,7 @@
 [![Python Version](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![SynthiVerse Banner](https://via.placeholder.com/1200x300?text=SynthiVerse.AI)
+![SynthiVerse Banner](assets/banner1.png)
 
 ## 🚀 Overview
 
