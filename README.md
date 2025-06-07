@@ -68,17 +68,16 @@ The interface provides full control over the image generation process, including
 The audio tab uses the Bark model to generate speech, music, and sound effects from a single text prompt.
 
 **Interface Screenshot:**
-**Prompt:** `"Hello and welcome to SynthiVerse.AI — your gateway to AI-generated creativity."
-"The future of artificial intelligence is not just smart, it's imaginative."
-"In 2050, humans and machines will collaborate to create entirely new worlds."`
+**Prompt:** `"[speaker:en_speaker_1] Good morning! This is your daily news update."
+"[speaker:en_speaker_6] [cheerful] Wow, that’s incredible! I can’t believe you did that!"
+"[speaker:fr_speaker_3] Bonjour! Comment ça va aujourd'hui?"
+"[speaker:hi_speaker_1] नमस्ते! आपका दिन शुभ हो।"`
 
-![Text-to-Audio UI](assets/IMG4.png)
+![Text-to-Audio UI](assets/IMG5.png)
 
 **Result:**
 
-https://github.com/user-attachments/assets/8f1273b2-4495-4e08-abc9-0c1afd03f16e
-
-
+https://github.com/user-attachments/assets/48521f0d-97bd-4231-822d-2d170e3ce595
 
 ---
 
