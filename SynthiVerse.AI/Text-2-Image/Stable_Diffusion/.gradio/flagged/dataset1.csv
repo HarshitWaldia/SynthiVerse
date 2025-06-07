@@ -1,0 +1,3 @@
+Prompt,CFG Scale,Sampler,Steps,Strength,Generated Image,timestamp
+fruits with faces laughing at each other,14,ddpm,80,0.9,.gradio\flagged\Generated Image\d3993c4a88d944b5ca36\image.webp,2025-06-03 16:19:28.723981
+fruits with faces laughing at each other,14,ddpm,80,0.9,.gradio\flagged\Generated Image\a0379df527aba20e860b\image.webp,2025-06-03 16:19:31.277908
