@@ -33,7 +33,7 @@ This project aims to democratize access to multimodal AI tools by combining them
 
 | Text Prompt                               | Generated Image                          |
 | :---------------------------------------- | :--------------------------------------- |
-| `a cyberpunk astronaut walking on Mars`   | ![Example Image](assets/sample_image.png) |
+| `a cyberpunk astronaut walking on Mars`   | ![Example Image](assets/sample_image.webp) |
 | `a monkey playing with a balloon`         | ![Example Image](assets/output.png)       |
 
 ---
