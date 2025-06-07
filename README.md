@@ -34,6 +34,7 @@ This project aims to democratize access to multimodal AI tools by combining them
 | Text Prompt                               | Generated Image                          |
 | :---------------------------------------- | :--------------------------------------- |
 | `a cyberpunk astronaut walking on Mars`   | ![Example Image](assets/sample_image.png) |
+| `a monkey playing with a balloon`         | ![Example Image](assets/output.png)       |
 
 ---
 
@@ -41,21 +42,25 @@ This project aims to democratize access to multimodal AI tools by combining them
 
 ```text
 SynthiVerse.AI/
+├──Documentation
+├──References
 ├── assets/
 │   └── sample_image.png
+│  └── output.png
 ├── Text-2-Image/
 │   ├── stable_diffusion/
 │   │   ├── model_loader.py
+│   │   └── Setup1.py
 │   │   └── pipeline.py
 │   └── data/
 │       ├── vocab.json
+│       └── model.ckpt 
 │       └── merges.txt
 ├── Text-2-Audio/
 │   └── bark/
+│       └──audioapp.py
 │       └── ...
 │
-├── audioapp.py         # Standalone audio generation UI
-├── setup.py            # Unified entry point for the multi-tab UI
 ├── requirements.txt    # Project dependencies
 └── README.md
 ```
