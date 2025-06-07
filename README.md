@@ -75,7 +75,9 @@ The audio tab uses the Bark model to generate speech, music, and sound effects f
 ![Text-to-Audio UI](assets/IMG4.png)
 
 **Result:**
-[![Play Audio](https://img.icons8.com/fluency/48/speaker.png)](https://github.com/user-attachments/assets/ed991a14-1d4f-41f2-84f6-d8addecf1bb2)
+
+https://github.com/user-attachments/assets/8f1273b2-4495-4e08-abc9-0c1afd03f16e
+
 
 
 ---
