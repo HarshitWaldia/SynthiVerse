@@ -16,6 +16,15 @@
 -   🔊 **Audio** from text prompts using Bark (Suno AI).
 -   🎥 **Video** from text prompts (coming soon!).
 
+Stable Diffusion is a latent diffusion model that generates images from text prompts. This implementation breaks down the model into its core components:
+
+1.  **CLIP Text Encoder**: Converts the input text prompt into a numerical representation (embedding).
+2.  **Variational Autoencoder (VAE)**: Encodes images into a compressed latent space and decodes latents back into images.
+3.  **U-Net Denoising Model**: The core of the diffusion process, which iteratively removes noise from a latent representation, guided by the text embedding.
+4.  **Scheduler**: Manages the noise schedule and timesteps during the denoising process.
+
+This code is heavily commented to explain each step, making it an ideal resource for learning and experimentation.
+
 This project aims to democratize access to multimodal AI tools by combining them into a single, easy-to-use application.
 
 ## 🛠️ Key Features
@@ -109,7 +118,8 @@ pip install -r requirements.txt
 
 Launch the Gradio interface by running the main setup script.
 ```bash
-python setup.py
+cd SynthiVerse.AI/Text-2-Image/Stable_diffusion/python Setup1.py
+cd SynthiVerse.AI/Text-2-Audio/bark/python audioapp.py
 ```
 Open your web browser and navigate to the local URL provided in the terminal (e.g., `http://127.0.0.1:7860`).
 
@@ -136,10 +146,22 @@ This project would not be possible without the incredible work of the following 
 -   **Stable Diffusion**: [CompVis](https://github.com/CompVis/stable-diffusion)
 -   **Bark**: [Suno AI](https://github.com/suno-ai/bark).
 -   **UI Framework**: [Gradio](https://gradio.app/) by Hugging Face.
+  
+## 🙏 Acknowledgements and Special Thanks
+
+This implementation would not have been possible without referencing the excellent work from the following pioneering projects. A special thanks to their authors and contributors for open-sourcing their code and sharing their knowledge with the community.
+
+-   **Original Stable Diffusion Repository**: [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion/)
+-   **UMAR JALIM**:[Youtube](https://youtu.be/ZBKpAp_6TGI?si=87XErzq_P5K6Yj_d)
+-   **Hugging Face Diffusers Library**: [huggingface/diffusers](https://github.com/huggingface/diffusers/)
+-   **Divam Gupta's TF Implementation**: [divamgupta/stable-diffusion-tensorflow](https://github.com/divamgupta/stable-diffusion-tensorflow)
+-   **Kjsman's PyTorch Implementation**: [kjsman/stable-diffusion-pytorch](https://github.com/kjsman/stable-diffusion-pytorch)
 
 ## 🙌 Contributing
 
-Contributions are welcome! . Great thanks to Shivam Sah for integrating Text-2-Audio Functionality.If you have suggestions for improvements or want to add new features, please feel free to:
+Contributions are welcome! . Great thanks to **Shivam Sah** for integrating Text-2-Audio Functionality.<br>
+**LinkedIn Shivam Sah**: [linkedin.com/in/shivam-sah-a56b85239](https://www.linkedin.com/in/shivam-sah-a56b85239/)<br>
+If you have suggestions for improvements or want to add new features, please feel free to:
 
 1.  Fork the repository.
 2.  Create a new feature branch (`git checkout -b feature/AmazingFeature`).
