@@ -154,8 +154,8 @@ Please open an issue first to discuss any major changes you would like to make.
 **Harshit Waldia**
 
 -   **Email**: `harshitwaldia112@gmail.com`
--   **LinkedIn**: [linkedin.com/in/your-profile-url](https://linkedin.com/in/your-profile-url)
--   **GitHub**: [@yourusername](https://github.com/yourusername)
+-   **LinkedIn**: [linkedin.com/in/harshit-waldia](https://www.linkedin.com/in/harshit-waldia/)
+-   **GitHub**: [@HarshitWaldia](https://github.com/HarshitWaldia)
 
 <br>
 <p align="center">
