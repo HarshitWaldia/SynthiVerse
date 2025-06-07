@@ -6,7 +6,7 @@
 [![Python Version](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![SynthiVerse Banner](assets/banner1.png)
+![SynthiVerse Banner](assets/banner.png)
 
 ## 🚀 Overview
 
@@ -48,6 +48,34 @@ This project aims to democratize access to multimodal AI tools by combining them
 | :---------------------------------------- | :--------------------------------------- |
 | `a cyberpunk astronaut walking on Mars`   | ![Example Image](assets/sample_image.webp) |
 | `a monkey playing with a balloon`         | ![Example Image](assets/output.png)       |
+
+---
+## ✨ Application in Action
+
+Here’s a look at the SynthiVerse.AI interface and the results it can produce.
+
+### 🎨 Text-to-Image Generation
+
+The interface provides full control over the image generation process, including steps, guidance scale, seed, and sampler.
+
+**Interface Screenshot:**
+**Prompt:** `A  cyberpunk astronaut walking on Mars`
+
+![Text-to-Image UI](assets/IMG2.png)
+
+### 🔊 Text-to-Audio Generation
+
+The audio tab uses the Bark model to generate speech, music, and sound effects from a single text prompt.
+
+**Interface Screenshot:**
+**Prompt:** `"Hello and welcome to SynthiVerse.AI — your gateway to AI-generated creativity."
+"The future of artificial intelligence is not just smart, it's imaginative."
+"In 2050, humans and machines will collaborate to create entirely new worlds."`
+
+![Text-to-Audio UI](assets/IMG4.png)
+
+**🔊 Result:** [Click to listen](assets/output_audio.wav)
+
 
 ---
 
