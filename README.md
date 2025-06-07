@@ -65,17 +65,17 @@ The interface provides full control over the image generation process, including
 
 ### 🔊 Text-to-Audio Generation
 
-The audio tab uses the Bark model to generate speech, music, and sound effects from a single text prompt.
+The audio tab uses the fine tuned - Bark model with pretrained weights to generate speech, music, and sound effects from a single text prompt.
 
 **Interface Screenshot:**
-**Prompt:** `"[speaker:en_speaker_1] Good morning! This is your daily news update."
-"[speaker:en_speaker_6] [cheerful] Wow, that’s incredible! I can’t believe you did that!"
-"[speaker:fr_speaker_3] Bonjour! Comment ça va aujourd'hui?"
-"[speaker:hi_speaker_1] नमस्ते! आपका दिन शुभ हो।"`
 
 ![Text-to-Audio UI](assets/IMG5.png)
 
 **Result:**
+**Prompt:** `"[speaker:en_speaker_1] Good morning! This is your daily news update."
+"[speaker:en_speaker_6] [cheerful] Wow, that’s incredible! I can’t believe you did that!"
+"[speaker:fr_speaker_3] Bonjour! Comment ça va aujourd'hui?"
+"[speaker:hi_speaker_1] नमस्ते! आपका दिन शुभ हो।"`
 
 https://github.com/user-attachments/assets/48521f0d-97bd-4231-822d-2d170e3ce595
 
